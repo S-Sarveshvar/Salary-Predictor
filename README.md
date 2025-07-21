@@ -42,5 +42,5 @@ To create a machine learning-powered tool that assists companies and individuals
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/salary-predictor.git
+   git clone https://github.com/S-Sarveshvar/salary-predictor.git
    cd salary-predictor
